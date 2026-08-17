@@ -1,4 +1,4 @@
-# Production Data Analysis Dashboard -- Excel
+# Production Data Analysis Dashboard 
 
 ## Project Overview
 
@@ -153,20 +153,6 @@ Pie chart
 Interactive slicers were added for: - Quarter - Age Group - Gender -
 Region
 
-## Data Analysis Workflow
-
-1.  Imported and reviewed the raw production data.
-2.  Cleaned and transformed the dataset using Power Query Editor.
-3.  Added required columns for analysis and categorization.
-4.  Used VLOOKUP to retrieve and combine relevant information.
-5.  Created summarized views using Pivot-based analysis.
-6.  Developed charts to represent production cost, production volume,
-    average unit cost, and manager performance.
-7.  Added interactive slicers for dynamic filtering.
-8.  Designed the final Excel dashboard for business-oriented analysis.
-9.  Reviewed the dashboard to identify major production and cost
-    insights.
-
 ## Business Value
 
 The dashboard provides a consolidated view of production performance and
@@ -180,11 +166,6 @@ can support:
 -   Regional and demographic analysis through interactive filters
 -   Data-driven operational decision-making
 
-## Dashboard Preview
-
-The project includes a recorded walkthrough video demonstrating the
-interactive Excel dashboard and its filtering capabilities.
-
 ## Key Takeaway
 
 The analysis highlights that **Automobiles have the highest total
@@ -194,16 +175,6 @@ analyzed months, with **November 2023 recording the highest monthly
 production of 4,803 units**. Manager task completion also varies
 significantly, with **Nancy Grey leading at 37 completed tasks**.
 
-## Skills Demonstrated
+## Author
+Syed Bilal Ahmed
 
--   Microsoft Excel
--   Data Cleaning
--   Data Transformation
--   Power Query Editor
--   VLOOKUP
--   Derived Column Creation
--   Pivot-Based Analysis
--   Data Visualization
--   Interactive Dashboard Development
--   Business Data Analysis
--   Insight Generation
